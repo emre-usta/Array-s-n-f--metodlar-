@@ -1,0 +1,15 @@
+/Users/yunusemreusta/Desktop/Pratikler/Array-sınıfı-metodları/bin/Debug/net6.0/Array-sınıfı-metodları
+/Users/yunusemreusta/Desktop/Pratikler/Array-sınıfı-metodları/bin/Debug/net6.0/Array-sınıfı-metodları.deps.json
+/Users/yunusemreusta/Desktop/Pratikler/Array-sınıfı-metodları/bin/Debug/net6.0/Array-sınıfı-metodları.runtimeconfig.json
+/Users/yunusemreusta/Desktop/Pratikler/Array-sınıfı-metodları/bin/Debug/net6.0/Array-sınıfı-metodları.dll
+/Users/yunusemreusta/Desktop/Pratikler/Array-sınıfı-metodları/bin/Debug/net6.0/Array-sınıfı-metodları.pdb
+/Users/yunusemreusta/Desktop/Pratikler/Array-sınıfı-metodları/obj/Debug/net6.0/Array-sınıfı-metodları.csproj.AssemblyReference.cache
+/Users/yunusemreusta/Desktop/Pratikler/Array-sınıfı-metodları/obj/Debug/net6.0/Array-sınıfı-metodları.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunusemreusta/Desktop/Pratikler/Array-sınıfı-metodları/obj/Debug/net6.0/Array-sınıfı-metodları.AssemblyInfoInputs.cache
+/Users/yunusemreusta/Desktop/Pratikler/Array-sınıfı-metodları/obj/Debug/net6.0/Array-sınıfı-metodları.AssemblyInfo.cs
+/Users/yunusemreusta/Desktop/Pratikler/Array-sınıfı-metodları/obj/Debug/net6.0/Array-sınıfı-metodları.csproj.CoreCompileInputs.cache
+/Users/yunusemreusta/Desktop/Pratikler/Array-sınıfı-metodları/obj/Debug/net6.0/Array-sınıfı-metodları.dll
+/Users/yunusemreusta/Desktop/Pratikler/Array-sınıfı-metodları/obj/Debug/net6.0/refint/Array-sınıfı-metodları.dll
+/Users/yunusemreusta/Desktop/Pratikler/Array-sınıfı-metodları/obj/Debug/net6.0/Array-sınıfı-metodları.pdb
+/Users/yunusemreusta/Desktop/Pratikler/Array-sınıfı-metodları/obj/Debug/net6.0/Array-sınıfı-metodları.genruntimeconfig.cache
+/Users/yunusemreusta/Desktop/Pratikler/Array-sınıfı-metodları/obj/Debug/net6.0/ref/Array-sınıfı-metodları.dll
